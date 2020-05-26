@@ -20,5 +20,6 @@ function bryantRichardsIntro() {
 }
 
 // add your function call here
+// Optional: start up the server and check out the browser console to see the result
 bryantRichardsIntro();
 examplePersonIntro();
