@@ -20,6 +20,6 @@ A JavaScript project
   ```
   git branch -d firstName-lastName
   ```
-  - Go to the original project on github (not your fork) and open a  new pull request
-  - Hit create pull request
-  - If everything is green, hit create pull request again.
+- Go to the original project on github (not your fork) and open a  new pullrequest
+- Hit create pull request
+- If everything is green, hit create pull request again.
