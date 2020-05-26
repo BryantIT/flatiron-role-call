@@ -19,7 +19,18 @@ function bryantRichardsIntro() {
   console.log(greeting, 'My name is:', name, 'and I am from', location)
 }
 
+function corinnaBrockMooreIntro() {
+  // Change this part to fit you
+  const greeting = "What's up, Git Down On It? "
+  const name = 'Corinna Brock Moore'
+  const location = 'Knoxville, TN'
+
+  // Don't change this part!
+  console.log(greeting, 'My name is:', name, 'and I am from', location)
+}
+
 // add your function call here
 // Optional: start up the server and check out the browser console to see the result
 bryantRichardsIntro();
+corinnaBrockMooreIntro();
 examplePersonIntro();
